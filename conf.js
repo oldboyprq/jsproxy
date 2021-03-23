@@ -85,7 +85,7 @@ jsproxy_config({
    * URL 自定义处理（设计中）
    */
   url_handler: {
-    'https://www.baidu.com/': {
+    'https://www.baidu.com': {
       content: 'Use google please'
     },
   }
